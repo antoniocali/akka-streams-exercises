@@ -1,2 +1,8 @@
 *.class
 *.log
+
+.bsp
+.idea
+.scalafmt.conf
+target/
+project/
